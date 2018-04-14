@@ -1,0 +1,10 @@
+c:\users\wowaag\source\repos\VikVikLab2\VikVikLab2\obj\Debug\VikVikLab2.csprojResolveAssemblyReference.cache
+c:\users\wowaag\source\repos\VikVikLab2\VikVikLab2\obj\Debug\VikVikLab2.csproj.CoreCompileInputs.cache
+c:\users\wowaag\source\repos\VikVikLab2\VikVikLab2\bin\Debug\VikVikLab2.exe.config
+c:\users\wowaag\source\repos\VikVikLab2\VikVikLab2\bin\Debug\VikVikLab2.exe
+c:\users\wowaag\source\repos\VikVikLab2\VikVikLab2\bin\Debug\VikVikLab2.pdb
+c:\users\wowaag\source\repos\VikVikLab2\VikVikLab2\obj\Debug\VikVikLab2.exe
+c:\users\wowaag\source\repos\VikVikLab2\VikVikLab2\obj\Debug\VikVikLab2.pdb
+E:\REAL JAVA\VikVikLab2\VikVikLab2\bin\Debug\VikVikLab2.exe.config
+E:\REAL JAVA\VikVikLab2\VikVikLab2\obj\Debug\VikVikLab2.exe
+E:\REAL JAVA\VikVikLab2\VikVikLab2\obj\Debug\VikVikLab2.pdb
